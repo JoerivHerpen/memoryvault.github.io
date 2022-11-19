@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: url('../assets/main-bg.png');
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Minecraft', sans-serif;
+}
+
+header{
+    color: #fff;
+    display: flex;
+    padding: 30px;
+}
+
+header img{
+    width: 150px;
+}
